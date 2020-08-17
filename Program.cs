@@ -18,7 +18,7 @@
         Console.WriteLine("Provide a series of numbers(should atleast equal length n): ");
        
        
-        int numbers = Convert.ToInt32(Console.ReadLine());
+       double numbers = Convert.ToDouble(Console.ReadLine());
 
 
         if (n <= numbers)
