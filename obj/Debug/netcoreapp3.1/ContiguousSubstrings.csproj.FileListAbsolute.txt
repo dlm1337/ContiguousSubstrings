@@ -1,0 +1,13 @@
+C:\Users\dlm13\source\repos\ContiguousSubstrings\bin\Debug\netcoreapp3.1\ContiguousSubstrings.exe
+C:\Users\dlm13\source\repos\ContiguousSubstrings\bin\Debug\netcoreapp3.1\ContiguousSubstrings.deps.json
+C:\Users\dlm13\source\repos\ContiguousSubstrings\bin\Debug\netcoreapp3.1\ContiguousSubstrings.runtimeconfig.json
+C:\Users\dlm13\source\repos\ContiguousSubstrings\bin\Debug\netcoreapp3.1\ContiguousSubstrings.runtimeconfig.dev.json
+C:\Users\dlm13\source\repos\ContiguousSubstrings\bin\Debug\netcoreapp3.1\ContiguousSubstrings.dll
+C:\Users\dlm13\source\repos\ContiguousSubstrings\bin\Debug\netcoreapp3.1\ContiguousSubstrings.pdb
+C:\Users\dlm13\source\repos\ContiguousSubstrings\obj\Debug\netcoreapp3.1\ContiguousSubstrings.csprojAssemblyReference.cache
+C:\Users\dlm13\source\repos\ContiguousSubstrings\obj\Debug\netcoreapp3.1\ContiguousSubstrings.AssemblyInfoInputs.cache
+C:\Users\dlm13\source\repos\ContiguousSubstrings\obj\Debug\netcoreapp3.1\ContiguousSubstrings.AssemblyInfo.cs
+C:\Users\dlm13\source\repos\ContiguousSubstrings\obj\Debug\netcoreapp3.1\ContiguousSubstrings.csproj.CoreCompileInputs.cache
+C:\Users\dlm13\source\repos\ContiguousSubstrings\obj\Debug\netcoreapp3.1\ContiguousSubstrings.dll
+C:\Users\dlm13\source\repos\ContiguousSubstrings\obj\Debug\netcoreapp3.1\ContiguousSubstrings.pdb
+C:\Users\dlm13\source\repos\ContiguousSubstrings\obj\Debug\netcoreapp3.1\ContiguousSubstrings.genruntimeconfig.cache
