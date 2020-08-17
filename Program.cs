@@ -1,7 +1,7 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
-
-    class Program
+class Program
     {
 
 
@@ -18,31 +18,29 @@
         Console.WriteLine("Provide a series of numbers(should atleast equal length n): ");
        
        
-       double numbers = Convert.ToDouble(Console.ReadLine());
+        string numbers = Console.ReadLine();
 
-
-        if (numbers.ToString().Length >= n)
+        string pattern = ("[^0-9]");
+        Regex DigitsOnly = new Regex(pattern);
+        if (!DigitsOnly.IsMatch(numbers))
         {
-            for(int x = 0; x <= numbers.ToString().Length - n; x++)
+            if (numbers.Length >= n)
             {
-
-             
+                for (int x = 0; x <= numbers.Length - n; x++)
+                {
                     Console.WriteLine(numbers.ToString().Substring(x, n));
-         
-            
-            
+                }
+            }
+            else
+            {
+                Console.WriteLine("n is larger than the series of numbers you provided.");
             }
         }
         else
         {
-            Console.WriteLine("You not entered a number incorrectly.");
+            Console.WriteLine("You have entered a non-numerical character.");
         }
-
-
-
-
-       
-        Console.ReadLine();
-        }
+    Console.ReadLine();
     }
+}
 
