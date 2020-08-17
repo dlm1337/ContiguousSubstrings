@@ -21,7 +21,7 @@
        double numbers = Convert.ToDouble(Console.ReadLine());
 
 
-        if (n <= numbers)
+        if (numbers.ToString().Length >= n)
         {
             for(int x = 0; x <= numbers.ToString().Length - n; x++)
             {
@@ -35,7 +35,7 @@
         }
         else
         {
-            Console.WriteLine("You not entered a number correctly.");
+            Console.WriteLine("You not entered a number incorrectly.");
         }
 
 
